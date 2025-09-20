@@ -1,6 +1,6 @@
-## 👋 Olá, eu sou João Victor
+## 👋 Olá, eu sou João Victor Araújo Lourenço Domingues  
 
-💻 Estudante Análise e Desenvolvimento de Sistemas  
+💻 Estudante de **Desenvolvimento de Software**  
 🚀 Sempre em busca de novos aprendizados e desafios na área de tecnologia  
 🎯 Objetivo: crescer como desenvolvedor fullstack e participar de projetos que façam diferença  
 
@@ -39,10 +39,10 @@
 
 ### 🌐 Conecte-se comigo  
 <div>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/joão-victor-araújo-lourenço-domingues/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:SEUEMAIL@gmail.com" target="_blank">
+  <a href="mailto:joaovictorald@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
