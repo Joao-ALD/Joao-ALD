@@ -51,5 +51,6 @@
 
 ### 🐍 Snake Animation  
 <p align="center">
-  ![Snake animation](https://github.com/Joao-ALD/Joao-ALD/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Joao-ALD/Joao-ALD/blob/output/github-contribution-grid-snake.svg)
 </p>
+
