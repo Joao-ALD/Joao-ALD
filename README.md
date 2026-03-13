@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou João Victor Araújo Lourenço Domingues  
 
-💻 Estudante de **Análise e Desenvolvimento de Software**  
+💻 Estudante de **Análise e Desenvolvimento de Software**  e **Ciência da Computação**
 🚀 Sempre em busca de novos aprendizados e desafios na área de tecnologia  
 🎯 Objetivo: crescer como desenvolvedor fullstack e participar de projetos que façam diferença  
 
